@@ -5,7 +5,7 @@
   
 # How to use it:
 - First download Python interpreter (https://www.python.org/downloads/)
-- Open the entertainment_center.py and run it in the interpreter.
+- Open the code_your_own_quiz.py and run it in the interpreter.
 
 # .zip file:
 - code_your_own_quiz.py

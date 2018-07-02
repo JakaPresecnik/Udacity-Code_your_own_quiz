@@ -1,6 +1,6 @@
 # CODE YOUR OWN QUIZ
 
-- This is a project for Udacity's Intro to Programming Nanodegree (IPND).
+- This is a project for **Udacity**'s **Intro to Programming** Nanodegree (IPND).
   - 3rd project.
   
 ## How to use it:
